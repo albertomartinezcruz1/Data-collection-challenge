@@ -1,5 +1,3 @@
-
-# Project Title 
 # Data-collection-challenge
 
 ## Table of Contents
