@@ -7,18 +7,14 @@
 
 - [Part 1: Scrape Titles and Preview Text from Mars News](#Part 1)
 - [Part 2: Scrape and Analyze Mars Weather Data](#Part 2)
-- [Usage](#usage)
 - [Contributing](#contributing)
 
 
 
 ## Part 1: Scrape Titles and Preview Text from Mars News
-Scrape titles and preview text from Mars news articles.
+Scrape titles and preview text from Mars news articles.(Starter_Code/part_1_mars_news.ipynb)
 ## Part 2: Scrape and Analyze Mars Weather Data
-Scrape and analyze Mars weather data, which exists in a table.
-
-## Usage
-A step by step series of examples that tell you how to get a development env running.
+Scrape and analyze Mars weather data, which exists in a table.(Starter_Code/part_2_mars_weather.ipynb)
 
 ## Contributing
-Contributors names.
+Alberto Martínez Cruz
